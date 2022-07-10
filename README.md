@@ -44,3 +44,6 @@ Making sure that the HTML and CSS code has a structural flow is a crucial step i
 
 ### Website Screenshot
 ![Alttext](/assets/images/full-website.png)
+
+### Link to Site
+[Link](https://lydiakim10.github.io/HW-1/)
